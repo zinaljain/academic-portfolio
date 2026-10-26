@@ -1,28 +1,18 @@
-# Zinal Jain — Academic Portfolio
+# Zinal Jain - Academic Portfolio
 
-Personal academic website for Zinal Jain, featuring research experience at DRDO DTTC, robotics projects, education, awards and technical skills.
+Live website: https://academic-portfolio-ten.vercel.app/
 
-## Local preview
-Open index.html in a browser. The website uses static HTML and CSS with no dependencies or build step.
+A simple one-page academic website with an original portrait, About Me, research interests, DRDO experience, Neerkavach, ARCNET, KRAKEN, education, skills, and certifications. The top row links to the CV PDF, email, and GitHub.
 
-## Deploy on Vercel
-1. Upload these files to a GitHub repository (for example, academic-portfolio).
-2. In Vercel, choose Add New > Project and import that repository.
-3. Select Other as the framework preset. Keep the root directory at the repository root; leave the Build Command empty and use the root as the Output Directory (a single dot if a value is requested).
-4. Deploy. Use the actual production URL Vercel provides.
+## Files
+- index.html: page content
+- style.css: white background, black text, responsive layout
+- zinal-jain-original.jpg: original portrait supplied by Zinal
+- Zinal_Jain_CV.pdf: academic CV aligned with project responsibilities and development status
+- robots.txt: crawler access
 
-Official guides:
-- https://vercel.com/docs/deployments/deploying-from-git
-- https://vercel.com/docs/git/vercel-for-github
+## Deployment
+Vercel imports the main branch of this repository as a static site (Other preset, no build command). Changes pushed to main trigger production deployment. Keep drafts separate until approved.
 
-## Search metadata after deployment
-Title, description, authorship, social preview metadata and profile structured data are included. The production website is https://academic-portfolio-ten.vercel.app/. The canonical URL and social link use this address. Then verify the site in Google Search Console and request indexing. Indexing is not guaranteed.
-
-## Content notes
-DRDO project: Edge AI-Based Human Detection and Alert System for Perimeter Surveillance.
-GitHub: https://github.com/zinaljain
-
-No CV document was modified.
-
-## Design
-Blue tones, Cambria with Georgia fallbacks, plain first-person wording, and unnumbered sections. Project responsibility descriptions use supplied experience; no measured performance results have been invented.
+## Content
+Project outcomes and funding are supplied by Zinal. Neerkavach separates physical tests, simulation validation, and work still in development. KRAKEN credits documentation and assistance with wiring and assembly.
