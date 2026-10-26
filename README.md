@@ -16,10 +16,13 @@ Official guides:
 - https://vercel.com/docs/git/vercel-for-github
 
 ## Search metadata after deployment
-Title, description, authorship, social preview metadata and profile structured data are included. No production domain is assumed. After the final Vercel or custom domain is available, add its canonical URL, og:url and a sitemap using that real domain. Then verify the site in Google Search Console and request indexing. Indexing is not guaranteed.
+Title, description, authorship, social preview metadata and profile structured data are included. The production website is https://academic-portfolio-ten.vercel.app/. The canonical URL and social link use this address. Then verify the site in Google Search Console and request indexing. Indexing is not guaranteed.
 
 ## Content notes
 DRDO project: Edge AI-Based Human Detection and Alert System for Perimeter Surveillance.
 GitHub: https://github.com/zinaljain
 
 No CV document was modified.
+
+## Design
+Blue tones, Cambria with Georgia fallbacks, plain first-person wording, and unnumbered sections. Project responsibility descriptions use supplied experience; no measured performance results have been invented.
