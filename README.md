@@ -20,7 +20,6 @@ Title, description, authorship, social preview metadata and profile structured d
 
 ## Content notes
 DRDO project: Edge AI-Based Human Detection and Alert System for Perimeter Surveillance.
-Robofest 6.0: Team Lead and Finalist (2026); electrical hardware integration and Pixhawk drone operation using QGroundControl and Mission Planner.
 GitHub: https://github.com/zinaljain
 
 No CV document was modified.
